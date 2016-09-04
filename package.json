@@ -1,6 +1,6 @@
 {
   "name": "hexo-azuresearch",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Azure search support for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "search",
     "hexo"
   ],
-  "author": "Art Chen",
+  "author": {
+    "name": "Art Chen"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/artchen/hexo-azuresearch/issues"
