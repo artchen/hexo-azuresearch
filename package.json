@@ -4,7 +4,7 @@
   "description": "Azure search support for Hexo.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "hexo"
   ],
   "author": {
-    "name": "Art Chen"
+    "name": "Art Chen",
+    "url": "https://works.otakism.com"
   },
   "license": "MIT",
   "bugs": {
