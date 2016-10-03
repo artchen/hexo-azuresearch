@@ -1,11 +1,9 @@
 {
   "name": "hexo-azuresearch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Azure search support for Hexo.",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/artchen/hexo-azuresearch.git"
