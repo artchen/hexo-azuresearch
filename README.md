@@ -19,13 +19,8 @@ AzureSearch:
   serviceURL: "<your-azure-search-service-url>"
   indexName: "<choose-a-index-name>"
   adminKey: "<your-azure-search-primary-admin-key>"
+  excerptLimit: 300
   analyzer: "zh-Hans.lucene" # optional
-  fields:
-    - title
-    - excerpt:strip
-    - content:strip
-    - permalink
-    - path
 ```
 
 ## Run
