@@ -25,7 +25,7 @@ AzureSearch:
 
 ## Run
 
-This command will automatically first clean then re-generate your hexo site. You DON'T need to `hexo clean` first.
+This command will automatically re-generate the hexo site. You don't need to `hexo clean`.
 
 ```bash
 hexo azuresearch
