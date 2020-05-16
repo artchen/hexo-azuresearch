@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "description": "Azure search support for Hexo.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "release": "standard-version"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/artchen/hexo-azuresearch.git"
   },
   "keywords": [
+    "hexo",
+    "hexo-plugin",
     "azure",
-    "search",
-    "hexo"
+    "search"
   ],
   "author": {
     "name": "Art Chen",
@@ -23,10 +26,10 @@
   },
   "homepage": "https://github.com/artchen/hexo-azuresearch#readme",
   "dependencies": {
-    "async": "^2.0.1",
-    "hexo-util": "^0.6.0",
-    "lodash": "^4.15.0",
-    "q": "^1.4.1",
-    "request": "^2.74.0"
+    "axios": "^0.19.2",
+    "hexo-util": "^2.1.0"
+  },
+  "devDependencies": {
+    "standard-version": "^8.0.0"
   }
 }
