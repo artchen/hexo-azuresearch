@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/artchen/hexo-azuresearch#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "hexo-util": "^2.1.0"
   },
   "devDependencies": {
