@@ -18,7 +18,7 @@
   ],
   "author": {
     "name": "Art Chen",
-    "url": "https://works.otakism.com"
+    "url": "https://artifact.me"
   },
   "license": "MIT",
   "bugs": {
@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/artchen/hexo-azuresearch#readme",
   "dependencies": {
-    "axios": "^0.19.2",
-    "hexo-util": "^2.1.0"
+    "axios": "^0.21.1",
+    "hexo-util": "^2.4.0"
   },
   "devDependencies": {
-    "standard-version": "^8.0.0"
+    "standard-version": "^9.1.0"
   }
 }
